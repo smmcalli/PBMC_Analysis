@@ -2,7 +2,7 @@
 
 __Dataset:__
 
-https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA1332716&amp;o=acc_s%3Aa
+(https://www.10xgenomics.com/welcome?closeUrl=%2Fdatasets&lastTouchOfferName=3k%20PBMCs%20from%20a%20Healthy%20Donor&lastTouchOfferType=Dataset&product=atera&redirectUrl=%2Fdatasets%2F3-k-pbm-cs-from-a-healthy-donor-1-standard-1-1-0)
 
 __Project Overview:__
 
