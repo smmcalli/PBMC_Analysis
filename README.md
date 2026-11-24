@@ -15,14 +15,15 @@ __Questions This Project Seeks to Answer:__
 __Methods:__
 
 Data Cleaning:
-- Removing Cells that were high outliers for percentage of mitochondrial DNA.
+- Removing cells that were high outliers for percentage of mitochondrial DNA.
+- Normalized dataset 
 
 Analysis:
-- Seurat
 - PCA
 - Clustering
 
 __Demonstrated Experience:__
-- 
+- Seurat
+- R
 
 __Key Findings:__
