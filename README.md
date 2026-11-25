@@ -18,12 +18,14 @@ Questions This Project Seeks to Answer:
 __Methods:__
 
 Data Cleaning:
-- Removing cells that were high outliers for percentage of mitochondrial DNA.
-- Normalized dataset 
+- Removed cells that were high outliers for percentage of mitochondrial DNA.
+- Normalized gene expression data 
 
 Analysis:
 - PCA
 - Clustering
+- Feature Plot
+- UMAP
 
 __Demonstrated Experience:__
 - Seurat
