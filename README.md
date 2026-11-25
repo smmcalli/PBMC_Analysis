@@ -7,10 +7,11 @@ __Dataset:__
 This dataset was collected from single cell sequencing of peripheral blood mononuclear cells (PBMCs) from healthy donor blood samples.
 
 __Project Overview:__
-
+This project looks to explore the cell type composition of a PMBC sample that has undergone single cell RNA sequencing. 
 
 Questions This Project Seeks to Answer:
-
+- What genes are most variably expressed across cells?
+- What are the main cell populations present in the sample?
 
 
 __Methods:__
