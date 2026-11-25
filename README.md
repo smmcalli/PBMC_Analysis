@@ -4,7 +4,7 @@ __Dataset:__
 
 (https://www.10xgenomics.com/welcome?closeUrl=%2Fdatasets&lastTouchOfferName=3k%20PBMCs%20from%20a%20Healthy%20Donor&lastTouchOfferType=Dataset&product=atera&redirectUrl=%2Fdatasets%2F3-k-pbm-cs-from-a-healthy-donor-1-standard-1-1-0)
 
-This dataset was collected from single-cell RNA sequencing (scRNA-seq) of peripheral blood mononuclear cells (PBMCs) from healthy donor blood samples. 
+This dataset was collected from single-cell RNA sequencing (scRNA-seq) of peripheral blood mononuclear cells (PBMCs) from healthy donor blood samples. It includes 2700 cells and 13000 genes.
 
 __Project Overview:__
 
